@@ -10,7 +10,6 @@
 
 #![feature(lang_items)]
 #![feature(concat_idents)]
-#![feature(const_fn)]
 #![feature(const_fn_union)]
 #![feature(allocator_api)]
 #![feature(alloc_error_handler)]
