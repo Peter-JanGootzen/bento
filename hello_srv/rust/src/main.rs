@@ -1,6 +1,5 @@
 #![feature(lang_items)]
 #![feature(concat_idents)]
-#![feature(const_fn)]
 #![feature(get_mut_unchecked)]
 
 extern crate alloc;
